@@ -1,1 +1,2 @@
-# Logistic-Regression-in-R
+# Machine-Learning-Algorithm-in-R-and-Python
+
